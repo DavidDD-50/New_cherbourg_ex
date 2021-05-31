@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/New_cherbourg_ex/static/css/main.ef136f9e.chunk.css",
+    "main.js": "/New_cherbourg_ex/static/js/main.53e9b103.chunk.js",
+    "main.js.map": "/New_cherbourg_ex/static/js/main.53e9b103.chunk.js.map",
+    "runtime-main.js": "/New_cherbourg_ex/static/js/runtime-main.c51579a6.js",
+    "runtime-main.js.map": "/New_cherbourg_ex/static/js/runtime-main.c51579a6.js.map",
+    "static/css/2.19072978.chunk.css": "/New_cherbourg_ex/static/css/2.19072978.chunk.css",
+    "static/js/2.8f68a138.chunk.js": "/New_cherbourg_ex/static/js/2.8f68a138.chunk.js",
+    "static/js/2.8f68a138.chunk.js.map": "/New_cherbourg_ex/static/js/2.8f68a138.chunk.js.map",
+    "index.html": "/New_cherbourg_ex/index.html",
+    "static/css/2.19072978.chunk.css.map": "/New_cherbourg_ex/static/css/2.19072978.chunk.css.map",
+    "static/css/main.ef136f9e.chunk.css.map": "/New_cherbourg_ex/static/css/main.ef136f9e.chunk.css.map",
+    "static/js/2.8f68a138.chunk.js.LICENSE.txt": "/New_cherbourg_ex/static/js/2.8f68a138.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/New_cherbourg_ex/static/media/Market_Deco.81315f1a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c51579a6.js",
+    "static/css/2.19072978.chunk.css",
+    "static/js/2.8f68a138.chunk.js",
+    "static/css/main.ef136f9e.chunk.css",
+    "static/js/main.53e9b103.chunk.js"
+  ]
+}
